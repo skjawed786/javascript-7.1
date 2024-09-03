@@ -25,3 +25,35 @@ variable :-
 
  - const is type of variable where we can't change our data.
  - const means constantto store some data like number, integer etc...
+
+
+
+ conditional staitment in javascript :-
+
+ - conditional statement are used to implement some condiotion in code.
+ - there aree three type of condional statement are their in javascript
+ 1. if condition :-
+ - if condition is true then statement is execute
+ - syntax:-
+ if(condition) {
+    statement
+ }
+
+ 2.if-else condition :-
+ - if condition is true then if block is executed otherwise its terminated to else condition.
+ - syntax :-
+ if(condition){
+    statement
+ } else {
+    statement
+ }
+
+ 3. else-if condition :-
+
+ if (condition){
+    statement
+ } else if (condition){
+    statement
+ } else {
+    statement
+ }
